@@ -1,7 +1,7 @@
 {
   "name": "discow-transsly-bots",
   "version": "1.0.0",
-  "description": "Created By DiscowZombie&Transsly",
+  "description": "Kendini Allah Sanan kod çalıp paylaşılmış bot editleyen türeme orospu evlatlarına gelsin. Eziksiniz sfiakfsaşif",
   "main": "discow-transsly.js",
   "scripts": {
     "start": "node ."
